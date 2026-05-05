@@ -19,3 +19,9 @@ jobs:
 
       - name: Lancer la vérification
         run: python verify_tickers.py
+
+      - name: Sauvegarder le rapport
+        uses: actions/upload-artifact@v3
+        with:
+          name: ticker-verification-report
+          path: verification_tickers.json
