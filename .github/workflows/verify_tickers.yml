@@ -1,0 +1,21 @@
+name: Verify Tickers
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Installer dépendances
+        run: pip install yfinance
+
+      - name: Lancer la vérification
+        run: python verify_tickers.py
