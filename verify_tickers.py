@@ -6,7 +6,7 @@ BASE_TICKERS = [
     # ── Magnificient seven ────────────────────────────────
     "APC", "MSF", "ABE", "AMZ", "NVD", "FB2A", "TL0",
     # ── Nouvelles ────────────────────────────────
-    "DBG"
+    "DBG",
     
 ]
 
