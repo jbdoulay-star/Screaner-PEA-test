@@ -6,7 +6,15 @@ BASE_TICKERS = [
     # ── Magnificient seven ────────────────────────────────
     "APC", "MSF", "ABE", "AMZ", "NVD", "FB2A", "TL0",
     # ── Nouvelles ────────────────────────────────
-    "DBG",
+    "DBG", "VU", "VLV", "VR7", "SNE", "VAC", "2U8", "TTE", "THEP", 
+    "THL", "RFT", "29N", "STM", "STLAM", "9SP", "SVY", "SOT", 
+    "GLE", "SHL", "ENR", "SND", "SAN", "RUI", "RNO", "QUBT", 
+    "PHIA", "RI", "HSCE", "ALPAR", "PXT", "ORA", "NDX1", "NEL", 
+    "ALMDG", "MEMS", "ALMDT", "IDL", "3FT", "VCT", "RACE", "EXA", 
+    "EUT", "EL", "ER7", "EQS", "ALENR", "ENGI", "E7L", "7LB", 
+    "DBG", "DELL", "DSY", "ACA", "SGO", "C9G", "CAT1", "CAP", 
+    "BVM", "AVZ", "BYG", "BNP", "WND", "BESI", "AXA", "ASML", 
+    "ALO", "AIR", "AIL", "AFR", "ADB", "ADS"
     
 ]
 
