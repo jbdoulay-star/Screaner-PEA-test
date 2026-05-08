@@ -4,7 +4,7 @@ from datetime import datetime
 
 BASE_TICKERS = [
  "MLRIC", "RIC", "ALRIC", "MLDRB", "DRB"
-}
+]
 
 # Priorité des marchés pour les valeurs européennes génériques
 MARCHES = [".PA", ".DE", ".F", ".BR", ".MC", ".AS", ".LS", ".ST", ".OL", ".HE", ".MI"]
